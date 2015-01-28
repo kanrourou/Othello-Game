@@ -1,7 +1,7 @@
 Othello Game
 =================
 
-Built a Othello Game with AI player in C++
+Built an Othello Game with AI player in Java
 
 * Derived the function to evaluate the current condition of the game
 * Developed AI player by generating minimax tree
